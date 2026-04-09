@@ -1,0 +1,6 @@
+streamlit
+pillow
+requests
+timm
+torch
+torchvision
