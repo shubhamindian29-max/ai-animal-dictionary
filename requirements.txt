@@ -4,3 +4,4 @@ requests
 timm
 torch
 torchvision
+certifi
